@@ -11,6 +11,7 @@ else{
 }
 
 var favfood =prompt("what is your fav. food?")
+alert("favfood")
 
 
 
